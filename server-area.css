@@ -1,0 +1,42 @@
+
+
+/* server-area.css */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+* {
+    font-family: "Roboto", sans-serif !important;
+}
+
+.navbar {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    font-size: 16px;
+    width: 100%;
+    z-index: 10;
+}
+
+.btn-custom {
+    border-radius: 20px;
+    padding: 8px 20px;
+}
+
+.btn-buscar {
+    background-color: #FC937A;
+}
+
+.btn-buscar:hover{
+    background-color: #F0AD4E;
+}
+
+.btn-voltar {
+    background-color: #F0AD4E;
+}
+
+.button-laranja {
+    background-color: #FC937A;
+    border-radius: 20px;
+    border: none;
+    width: 100%;
+    padding: 12px;
+}
+
+

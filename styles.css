@@ -8,9 +8,9 @@ body {
 
 header {
     margin-top: 5%;
-    background-color: #f15a24;
+    background-color: #FC937A;
     color: #fff;
-    text-align: center;
+    text-align: left;
 }
 
 main {
@@ -21,6 +21,7 @@ main {
     display: flex;
     gap: 0.5rem;
     margin-bottom: 1rem;
+    text-align: center;
 }
 
 button {
@@ -71,6 +72,7 @@ th, td {
 }
 
 input[type="text"] {
+    background-color: #fc947a62;
     width: 100%;
     padding: 0.5rem;
     border: 1px solid #ccc;
