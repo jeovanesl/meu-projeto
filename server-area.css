@@ -24,11 +24,15 @@
 }
 
 .btn-buscar:hover{
-    background-color: #F0AD4E;
+    background-color: #f9a38ed1;
 }
 
 .btn-voltar {
-    background-color: #F0AD4E;
+    background-color: #f0ac4ebe;
+}
+
+.btn-voltar:hover{
+    background-color: #f5cd96;
 }
 
 .button-laranja {
