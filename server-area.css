@@ -1,6 +1,3 @@
-
-
-/* server-area.css */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 * {
@@ -17,30 +14,25 @@
 .btn-custom {
     border-radius: 20px;
     padding: 8px 20px;
+    border: none;
 }
 
 .btn-buscar {
     background-color: #FC937A;
 }
 
-.btn-buscar:hover{
-    background-color: #f9a38ed1;
+.btn-buscar:hover {
+    background-color: #f9a38e;
 }
 
 .btn-voltar {
-    background-color: #f0ac4ebe;
+    background-color: #f0ac4e;
 }
 
-.btn-voltar:hover{
+.btn-voltar:hover {
     background-color: #f5cd96;
 }
 
-.button-laranja {
-    background-color: #FC937A;
-    border-radius: 20px;
-    border: none;
-    width: 100%;
-    padding: 12px;
+.table-responsive {
+    overflow-x: auto;
 }
-
-
